@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vivek Ravi, a data scientist.
+I am Vivek Ravi, a machine learning engineer at Block.
 
 <!--
 **vivek-r-ravi/vivek-r-ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
